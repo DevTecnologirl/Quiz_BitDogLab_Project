@@ -80,4 +80,4 @@ Este vídeo demonstra:
 ---
 
 📌 **Projeto EmbarcaTech 2025 - Camilly Duarte**
-📌 **Código adaptado - Credits: Davimmo**
+
