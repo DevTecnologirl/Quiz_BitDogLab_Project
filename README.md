@@ -67,7 +67,7 @@ O código foi escrito em C, a estrutura de diretórios facilita o desenvolviment
 8. Selecione `Start Monitoring` e pressione `ENTER` para abrir o menu principal.
 
 2. Use o site para clonar do git para o explorer: 
- SITE: https://download-directory.github.io/
+    https://download-directory.github.io/
 
 ## 🎥 Vídeo Demonstrativo
 🔗 [Veja o projeto rodando na BitDogLab]
