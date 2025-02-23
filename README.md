@@ -56,7 +56,7 @@ O código foi escrito em C, a estrutura de diretórios facilita o desenvolviment
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/DevTecnologirl/Quiz_BitDogLab
+   git clone (https://github.com/DevTecnologirl/Quiz_BitDogLab_Project)
    ```
 2. Abra o projeto no **VS Code**.
 3. Certifique-se de que a extensão **Raspberry Pi Pico** está instalada e configurada.
